@@ -13,12 +13,20 @@
 
 // console.log (fravouriteMusic)
 
-//@ts-check
+
 // let fravouriteWebSite = [
 //     " YouTube",
 //      " 9anime",
 //      "crunchyroll",
 //     ] 
 // console.log (fravouriteWebSite)
+
+
+let fravouriteFilms = [
+    "lord of the rings", "harry poter", "GhostBuster", "avatar","my neighbor totoro"
+] 
+console.log (fravouriteFilms)
+
+
 
 
